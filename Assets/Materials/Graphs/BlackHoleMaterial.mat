@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: FullscreenMaterial
+  m_Name: BlackHoleMaterial
   m_Shader: {fileID: 4800000, guid: f3f35e7fba3a0aa4ab01e905f1af57b9, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
