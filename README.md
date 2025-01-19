@@ -92,8 +92,6 @@ O shader é capaz de simular visualmente os seguintes efeitos:
 3. **Interação Física**  
    Não foi considerada a emissão de luz relativística ou outros fenômenos avançados, como Doppler effect causado pela rotação de um buraco negro ou a Hawking radiation.
 
-![image](https://github.com/user-attachments/assets/4387699a-54e1-4406-a234-8014706c955f)
-
 ---
 
 ## Bibliografia
