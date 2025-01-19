@@ -119,10 +119,10 @@ Material:
     - _AD_outerRadius: 2
     - _AD_radius: 1
     - _AD_rotationSpeed: 2.3
-    - _AccretionDiskInnerRadius: 0.5
-    - _AccretionDiskOuterRadius: 3.29
+    - _AccretionDiskInnerRadius: 0.41
+    - _AccretionDiskOuterRadius: 2.5
     - _AccretionDiskRadius: 2.3
-    - _AccretionDiskThickness: 0.04
+    - _AccretionDiskThickness: 0.05
     - _AlphaClip: 0
     - _AlphaToMask: 0
     - _ArcAngle: 360
@@ -166,7 +166,7 @@ Material:
     - _SchwarzschildRadius: 0.25
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
-    - _SpaceDistortion: 2.66
+    - _SpaceDistortion: 3.1
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
