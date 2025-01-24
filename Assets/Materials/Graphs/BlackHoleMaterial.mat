@@ -119,11 +119,11 @@ Material:
     - _AD_outerRadius: 2
     - _AD_radius: 1
     - _AD_rotationSpeed: 2.3
-    - _AccretionDiskBloomIntensity: 0.001
-    - _AccretionDiskDopplerEffectIntensity: 0.07
+    - _AccretionDiskBloomIntensity: 0.05
+    - _AccretionDiskDopplerEffectIntensity: 0.03
     - _AccretionDiskInnerRadius: 1.76
     - _AccretionDiskNoise: 0.05
-    - _AccretionDiskOuterRadius: 4.6
+    - _AccretionDiskOuterRadius: 3.41
     - _AccretionDiskRadius: 2.3
     - _AccretionDiskRotationSpeed: 1.01
     - _AccretionDiskRoundness: 0
@@ -185,7 +185,7 @@ Material:
     m_Colors:
     - _AD_color1: {r: 0.8808007, g: 1, b: 0, a: 1}
     - _AD_color2: {r: 0, g: 0.40026736, b: 1, a: 1}
-    - _AccretionDiskColor: {r: 0.41509432, g: 0.2653348, b: 0, a: 1}
+    - _AccretionDiskColor: {r: 0.4433962, g: 0.20605612, b: 0, a: 1}
     - _ArcColor: {r: 1, g: 0, b: 0, a: 1}
     - _ArcoColor: {r: 0.9406237, g: 1, b: 0.080188654, a: 1}
     - _BH_pos: {r: 0, g: 0, b: 0, a: 0}
